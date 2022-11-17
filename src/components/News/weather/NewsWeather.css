@@ -1,0 +1,31 @@
+.Main_newsweather{
+    background: rgb(194, 49, 49);
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.newsweather{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.newsweather_wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.newsweather_wrapper img{
+    padding:20px;
+}
+
+.newsweather_wrapper p{
+    font-size: 20px;
+    font-weight: 400px;
+}

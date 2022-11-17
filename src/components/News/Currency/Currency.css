@@ -1,0 +1,33 @@
+.Main_currency{
+
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.general_currency{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+}
+
+.second_currency{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+}
+
+.money {
+    font-size: 30px;
+    font-weight: 400;
+}
+.money_name{
+    font-size: 30px;
+    font-weight: 400;
+}
+
