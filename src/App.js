@@ -9,8 +9,9 @@ const App = () => {
     <div className='main_page'>
       <Header/>
       <Input/>
-      <Currency/>
       <NewsWeather/>
+      <Currency/>
+      
     </div>
   )
 }
